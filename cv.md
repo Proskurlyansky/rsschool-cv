@@ -1,7 +1,5 @@
 # Vyacheslav Tarakanov
 
-# ===
-
 ---
 
 - Contacts:
@@ -9,7 +7,7 @@
   - phone: +7(999)-999-99-99
   - telegram: @telegram
 
-===
+---
 
 ## About me:
 
@@ -25,7 +23,7 @@ Distinct, but distant — clear, but oh, how cold!
 
 **_George Gordon Byron_** [link](https://skyeng.ru/articles/stihi-na-anglijskom-s-perevodom/ "link for skyeng")
 
-===
+---
 
 ## Skills:
 
@@ -33,7 +31,7 @@ Distinct, but distant — clear, but oh, how cold!
 - CSS
 - JavaScript
 
-===
+---
 
 ## removing characters from a string
 
@@ -45,17 +43,17 @@ function removeChrct (str) {
 
 ```
 
-===
+---
 
 ## you can see my training projects on [github](https://github.com/Proskurlyansky "github")
 
-===
+---
 
 ## Education
 
 NIU RANEPA 2012-2015
 
-===
+---
 
 ## English
 
