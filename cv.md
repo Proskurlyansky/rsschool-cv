@@ -2,6 +2,8 @@
 ===
 # **Tarakanov Vyacheslav**
 
+![avatar](./ava.jpg)
+
 ===
 
 ## Contact information:
