@@ -1,31 +1,30 @@
-*[rs-school](rs.school)*
-===
+======
 # **Tarakanov Vyacheslav**
 
 ![avatar](./ava.jpg)
 
-===
+*********
 
 ## Contact information:
 
 #### E-mail: proskur.tech@yandex.ru
-#### Telegram: @vyachesloveyou
+#### Telegram: [vyachesloveyou](https://t.me/vyachesloveyou)
 #### Discord: proskurlyansky
 
-===
+*********
 
 ## Briefly About Myself:
 
 Hello everyone, I'm Slava and I'm doing my best to become a cool front-end developer. At the moment I work as a system administrator and study the frontend on my own. I think that everything can be achieved - you only need the desire and I have it.
 
-===
+*********
 
 ## Skills and Proficiency:
 + HTML, CSS (SASS, SCSS)
 + JavaScript (TypeScript, React)
 + Git (GitHub, GitLub)
 
-===
+*********
 
 ## Code example:
 
@@ -38,7 +37,7 @@ for(let item of arr) {
 }
 ```
 
-=== 
+*********
 
 ## My work experience:
 
@@ -50,7 +49,7 @@ for(let item of arr) {
 
 took courses on [stepik](https://stepik.org)
 
-===
+*********
 
 ## Languages:
 
