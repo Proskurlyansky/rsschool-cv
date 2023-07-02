@@ -1,4 +1,4 @@
-======
+*********
 # **Tarakanov Vyacheslav**
 
 ![avatar](./ava.jpg)
@@ -43,7 +43,7 @@ for(let item of arr) {
 
 [proskur.tech](https://proskur.tech)
 
-===
+*********
 
 ## Courses:
 
